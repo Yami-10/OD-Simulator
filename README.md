@@ -4,6 +4,7 @@ OpenDominion Simulator for round
 
 * Added mana production to Towers improvement
 * Tech cost multiplier changed to 6.4 from 6.426
+* Added bonus RPs to daily land bonus
 * Nox RP racial bonus down to 10% from 15%
 * Sylvan -10% rezone cost racial bonus added
 * Spirit food consumption to -80% from -90%
