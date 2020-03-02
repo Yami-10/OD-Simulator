@@ -1,6 +1,6 @@
 # OD-Simulator
 
-OpenDominion Simulator for round
+OpenDominion Simulator for round 17
 
 * Added mana production to Towers improvement
 * Tech cost multiplier changed to 6.4 from 6.426
@@ -10,3 +10,5 @@ OpenDominion Simulator for round
 * Spirit food consumption to -80% from -90%
 * UD mana production to +10% from +5%
 * Dwarf racial bonus +5% castle imps from ore partially-implemented (used goblin general investment bonus *shrug*)
+
+* Fixed incorrect application of prestige to food production
