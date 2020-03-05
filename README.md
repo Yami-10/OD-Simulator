@@ -12,3 +12,4 @@ OpenDominion Simulator for round 17
 * Dwarf racial bonus +5% castle imps from ore partially-implemented (used goblin general investment bonus *shrug*)
 
 * Fixed incorrect application of prestige to food production
+* Added Mechanical Genius spell
