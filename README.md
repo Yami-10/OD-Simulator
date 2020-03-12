@@ -13,3 +13,4 @@ OpenDominion Simulator for round 17
 
 * Fixed incorrect application of prestige to food production
 * Added Mechanical Genius spell
+* Fixed erroneous log information
