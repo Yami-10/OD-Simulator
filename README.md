@@ -1,6 +1,7 @@
 # OD-Simulator
 
-OpenDominion Simulator for round 17
+OpenDominion Simulator for round 18
+
 Round 18 changes:
 * Icekin Ice Elemental to 1 * WPA
 
