@@ -1,7 +1,10 @@
 # OD-Simulator
 
 OpenDominion Simulator for round 17
+Round 18 changes:
+* Icekin Ice Elemental to 1 * WPA
 
+Round 17 changes:
 * Added mana production to Towers improvement
 * Tech cost multiplier changed to 6.4 from 6.426
 * Added bonus RPs to daily land bonus
