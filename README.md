@@ -4,6 +4,7 @@ OpenDominion Simulator for round 18
 
 Round 18 changes:
 * Icekin Ice Elemental to 1 * WPA
+* Dwarf investment racial to +10% from ore (still using the same goblin general investment bonus *double shrug*)
 
 Round 17 changes:
 * Added mana production to Towers improvement
