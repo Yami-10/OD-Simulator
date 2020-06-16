@@ -4,7 +4,7 @@ OpenDominion Simulator for round 18
 
 Round 19 changes:
 * Fixed a bug that did not include farms the tick they came in
-* Fixed a bug in construction rounding, numbers should not be accurate (please report any errors)
+* Fixed a bug in construction rounding, numbers should now be accurate (please report any errors)
 * Gameplay changes not included, pending GPC finalization
 
 Round 18 changes:
