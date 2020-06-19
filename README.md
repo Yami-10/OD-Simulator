@@ -10,7 +10,9 @@ Round 19 changes:
 * Orc Voodoo Magi prestige requirement lowered to 500 prestige from 600, cost up to 830p
 * Removed Warsong spell
 * Sylvan Centaur OP up to 5.5 from 5
+* Removed Sylvan 10% rezone racial bonus
 * Towers imp name changed to Spires
+* Lyc home land type changes to Forest
 
 Round 18 changes:
 * Icekin Ice Elemental to 1 * WPA
