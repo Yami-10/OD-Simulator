@@ -2,6 +2,17 @@
 
 OpenDominion Simulator for round 18
 
+Round 20 changes:
+* Dwarf: Miner to 350p, 20r, Ore Investment Bonus to 15 % (-5r on Miners, +5 % Ore Investment Bonus)
+* Gnome: 'New' racial spell: Miner's Sight. (Dwarf spell, also Gnome spell from Round 15). Juggernauts are now 6*/3, offence increased by 0.5 against dominions 75%+ of your size, offence increased by 1 against dominions 85%+ of your size.
+* Goblin: Hobgoblin Plunder now generates 1 hour of raw production of target OR 20 plat / 5 gems per surviving Hobgoblin, whichever is LOWER
+* Human/Nomad: Knight/Blademaster to 1025p, Cavalry/Valkyrie to 1225p (+25p on Elite D, -25p on Elite O)
+* Lizardfolk: Lizardmen to 1150p, Chameleons to 875p (+100p on LM, -25p on Chams)
+* Lycanthrope: Werewolf to 3/4, population bonus to +5 %, (-1 OP on Werewolves, -5 % max pop,)
+* Orc: Bone Breaker: 7/2, Offence decreased by 1 for every 10 % GT, max -1.  Cost increased to 1075p (+25p)
+* Dark Elf: +10% wizard power racial perk
+* Forest Havens: Now produce 20 Lumber/hour.
+
 Round 19 changes:
 * Fixed a bug that did not include farms the tick they came in
 * Fixed a bug in construction rounding, numbers should now be accurate (please report any errors)
