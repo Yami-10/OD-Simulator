@@ -2,6 +2,18 @@
 
 OpenDominion Simulator for round 18
 
+Round 21 changes:
+* Icekin: +5% platinum production, AM cost reduction to -100p
+* Lizardfolk: Lizardman to -50p to 1100p, cham +25p back to 900p
+* Lycanthrope: Max pop to +7.5%
+* Troll: Loses race-targeting bonuses, Smasher -25p to 1425p
+* Goblin: Lose +5 pop on barren acres, lose gem production bonus, castle improvement bonus changed to +20% (gems only)
+* Kobold: population growth bonus to +10%, lose +5 pop on barren acres
+* Human: Knight +25p to 1050p, Cavalry +25p to 1250p
+* Wood Elf: Longbowman +30p to 380p, Druid +25p to 1075p
+* Nox: Nightshade changed to 0/3, +1 per 12% swamp, 975p, 60r
+* Sylvan: Centaur ore cost reduced from 70r to 35r
+
 Round 20 changes:
 * Dwarf: Miner to 350p, 20r, Ore Investment Bonus to 15 % (-5r on Miners, +5 % Ore Investment Bonus)
 * Gnome: 'New' racial spell: Miner's Sight. (Dwarf spell, also Gnome spell from Round 15). Juggernauts are now 6*/3, offence increased by 0.5 against dominions 75%+ of your size, offence increased by 1 against dominions 85%+ of your size.
