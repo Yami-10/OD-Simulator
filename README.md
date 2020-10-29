@@ -3,6 +3,7 @@
 OpenDominion Simulator for round 18
 
 Round 21 changes:
+* New tech system implemented
 * Icekin: +5% platinum production, AM cost reduction to -100p
 * Lizardfolk: Lizardman to -50p to 1100p, cham +25p back to 900p
 * Lycanthrope: Max pop to +7.5%
