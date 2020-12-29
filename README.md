@@ -1,9 +1,9 @@
 # OD-Simulator
 
-OpenDominion Simulator for round 12
+OpenDominion Simulator for round 22
 
 
-Round 21 changes:
+Round 22 changes:
 * Updated tech tree
 * Dark Elf: Adept to +1/+1 per 9% WGs, max +4/+4 [tentative]
 
