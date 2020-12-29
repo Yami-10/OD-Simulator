@@ -1,6 +1,11 @@
 # OD-Simulator
 
-OpenDominion Simulator for round 18
+OpenDominion Simulator for round 12
+
+
+Round 21 changes:
+* Updated tech tree
+* Dark Elf: Adept to +1/+1 per 9% WGs, max +4/+4 [tentative]
 
 Round 21 changes:
 * New tech system implemented
