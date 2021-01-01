@@ -1,6 +1,6 @@
 # OD-Simulator
 
-OpenDominion Simulator for round 22
+OpenDominion Simulator for test round and round 22, please check which version you're using
 
 
 Round 22 changes:
