@@ -6,6 +6,7 @@ OpenDominion Simulator for test round and round 22, please check which version y
 Round 22 changes:
 * Updated tech tree
 * Dark Elf: Adept to +1/+1 per 9% WGs, max +4/+4 [tentative]
+* Goblin: Hobgoblin to 975p from 1000p
 
 Round 21 changes:
 * New tech system implemented
