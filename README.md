@@ -2,6 +2,14 @@
 
 OpenDominion Simulator for test round and round 22, please check which version you're using
 
+Round 23 changes:
+* Mana and Lumber can now be used to train certain units
+* Orc: Savage to 25r, Guard to 0r, Reworked VM and BB
+* Wood Elf: Druid +25p to 1100p
+* Dark Elf: Adept +100p to 1100p
+* Nox units now require mana instead of ore to train
+* Sylvan Centaur now requires lumber instead of ore to train
+* Factories to 4x construction/rezone bonus, max 60%
 
 Round 22 changes:
 * Updated tech tree
