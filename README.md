@@ -10,6 +10,7 @@ Round 23 changes:
 * Nox units now require mana instead of ore to train
 * Sylvan Centaur now requires lumber instead of ore to train
 * Factories to 4x construction/rezone bonus, max 60%
+* GN/GT to 1.6x, max 32% bonus
 
 Round 22 changes:
 * Updated tech tree
