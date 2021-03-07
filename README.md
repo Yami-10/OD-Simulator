@@ -3,6 +3,7 @@
 OpenDominion Simulator for test round and round 22, please check which version you're using
 
 Round 23 changes:
+* New Max Explore column added to Explore page (special thanks to mris for simplifying this formula)
 * Mana and Lumber can now be used to train certain units
 * Orc: Savage to 25r, Guard to 0r, Reworked VM and BB
 * Wood Elf: Druid +25p to 1100p
