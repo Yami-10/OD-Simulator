@@ -1,6 +1,9 @@
 # OD-Simulator
 
-OpenDominion Simulator for test round and round 22, please check which version you're using
+OpenDominion Simulator for test round and round 24. Blackreign's Simulator is the classic version you all know and love. The OpenDominion Simulator is an updated version for excel that utilizes tables. Check it and let us know what you think on Discord! Always remember to check which version you're using and report any bugs.
+
+Round 24 changes:
+
 
 Round 23 changes:
 * New Max Explore column added to Explore page (special thanks to mris for simplifying this formula)
