@@ -3,7 +3,16 @@
 OpenDominion Simulator for test round and round 24. Blackreign's Simulator is the classic version you all know and love. The OpenDominion Simulator is an updated version for excel that utilizes tables. Check it and let us know what you think on Discord! Always remember to check which version you're using and report any bugs.
 
 Round 24 changes:
-
+* Many bonuses have been made additive instead of multiplicative
+* FW: Construction bonus now -7.5% (down from -10%)
+* Goblin: Hobgoblin up to 1050p
+* Kobold: Underling +5p to 250p, Beast -15p to 960p
+* Lizardfolk: Lizardman -15p to 1085p
+* Lycanthrope: +2.5% max pop to +10%
+* Human/Nomad: Knight/Blademaster -25p to 1025p
+* SPUD: Ghost/Prog -20p to 880p
+* WE: Mystic +25p to 1150p
+* Various minor tech, FH and WG changes
 
 Round 23 changes:
 * New Max Explore column added to Explore page (special thanks to mris for simplifying this formula)
