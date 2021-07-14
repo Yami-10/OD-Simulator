@@ -2,6 +2,17 @@
 
 OpenDominion Simulator for test round and round 24. Blackreign's Simulator is the classic version you all know and love. The OpenDominion Simulator is an updated version for excel that utilizes tables. Check it and let us know what you think on Discord! Always remember to check which version you're using and report any bugs.
 
+Round 25 changes:
+* Barracks now house 35 trained or in training military units, modified by prestige (from 36 unmodified)
+* Schools now generate 25 Research Points per 1% owned up to a maximum of 750 at 30% owned (down from 26, max 1040 at 40%)
+* Dark Elf Adept: OP/DP increased by 1 for every 10% Wizard Guilds (from 9%)
+* Dark Elf: **TBD** additional nerf
+* Dwarf Warrior: -10r (from 110r)
+* Firewalker: **TBD** exploring nerf
+* Gnome Juggernaut: -50p (from 775p)
+* Orc: +20% food consumption removed
+* Orc Bone Breaker: Offense 4, +1 for every 375 prestige, max +3 (from 5, +1 for every 625 prestige, max +2)
+
 Round 24 changes:
 * Many bonuses have been made additive instead of multiplicative
 * FW: Construction bonus now -7.5% (down from -10%)
