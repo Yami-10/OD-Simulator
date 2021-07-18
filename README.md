@@ -5,10 +5,9 @@ OpenDominion Simulator for test round and round 24. Blackreign's Simulator is th
 Round 25 changes:
 * Barracks now house 35 trained or in training military units, modified by prestige (from 36 unmodified)
 * Schools now generate 25 Research Points per 1% owned up to a maximum of 750 at 30% owned (down from 26, max 1040 at 40%)
-* Dark Elf Adept: OP/DP increased by 1 for every 10% Wizard Guilds (from 9%)
-* Dark Elf: **TBD** additional nerf
+* Dark Elf Adept: +50p (from 1100p), Wizard Guild requirement increased to 10% (from 9%) per point
 * Dwarf Warrior: -10r (from 110r)
-* Firewalker: **TBD** exploring nerf
+* Firewalker: construction cost reduced to -10% (from -7.5%), explore cost increased by 5%
 * Gnome Juggernaut: -50p (from 775p)
 * Orc: +20% food consumption removed
 * Orc Bone Breaker: Offense 4, +1 for every 375 prestige, max +3 (from 5, +1 for every 625 prestige, max +2)
