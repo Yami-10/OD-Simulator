@@ -11,6 +11,7 @@ Round 25 changes:
 * Gnome Juggernaut: -50p (from 775p)
 * Orc: +20% food consumption removed
 * Orc Bone Breaker: Offense 4, +1 for every 375 prestige, max +3 (from 5, +1 for every 625 prestige, max +2)
+* Bunk Beds tech from +2 rax housing to +1
 
 Round 24 changes:
 * Many bonuses have been made additive instead of multiplicative
