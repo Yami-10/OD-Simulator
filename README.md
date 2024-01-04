@@ -6,7 +6,7 @@ Update: The sim is now fully functional on macOS
 
 The sim now automatically trades your 10,000 starting gems into platinum and releases your base 150 spec defense units
 
-Round 37.5, Test Round Changes:
+Round 38 Changes:
 - Factory: construction and rezoning costs reduced by 5% per 1% owned, up to a maximum of 50% at 10% owned (from 4% per 1%, max 60% at 15% owned)
 - Factory: now employs 25 peasants (instead of 20)
 - Goblin: gem investment bonus reduced to 10% (from 15%)
