@@ -4,4 +4,4 @@ OpenDominion Simulator for sprint round and round 46. The OpenDominion Simulator
 
 Update: The sim is now fully functional on macOS
 
-Beginning in round 46, the sim has gone changes to mirror our new protection rules. Construction and rezone on hour 1 is free and instantaneous. Population also immediately reaches maximum. Just enter buildings hour 1 as you normally would. Happy simming!
+Beginning in round 46, the sim has undergone changes to mirror our new protection rules. Protection is now 48 ticks long, down from 72. You can set your initial, instantaneous construction directly on the Overview page.
